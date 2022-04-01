@@ -10,8 +10,8 @@
     {{- if .IsHome -}}
       {{- .Site.Title -}}
       {{ with .Site.Params.slogan }} - {{ . }}{{ end }}
-    {{ else }}  
-      {{ .Title}} - {{ .Site.Title }} 
-    {{ end }}
+    {{- else -}}  
+      {{- .Title}} - {{ .Site.Title -}} 
+    {{- end -}}
   </title>
 </head>
