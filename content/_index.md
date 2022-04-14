@@ -6,9 +6,11 @@ subtitle: Lets Go Hugo
 ---
 Hugo Supports markdown, which allows you to do many things similar to HTML. It is actually converted to HTML by Hugo, but has a nicer syntax than HTML so enables rapid development.
 
-THis is a test site trying to host on github and verifying!
 
-Updating again changed main.yml to gh-pages.yaml
+This is a test page will Kanji work? 
+岩国市由宇町北
+
+
 
 ## Unordered Lists
 
