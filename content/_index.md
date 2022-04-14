@@ -8,6 +8,8 @@ Hugo Supports markdown, which allows you to do many things similar to HTML. It i
 
 THis is a test site trying to host on github and verifying!
 
+Updating again changed main.yml to gh-pages.yaml
+
 ## Unordered Lists
 
 - Item 1
