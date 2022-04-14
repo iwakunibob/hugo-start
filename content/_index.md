@@ -18,7 +18,7 @@ This is a test page will Kanji work?
 - Item 2
 - Item 3
 
-## Oordered Lists
+## Ordered Lists
 
 1. Item 1
 1. Item 2
