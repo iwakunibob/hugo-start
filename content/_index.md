@@ -6,6 +6,8 @@ subtitle: Lets Go Hugo
 ---
 Hugo Supports markdown, which allows you to do many things similar to HTML. It is actually converted to HTML by Hugo, but has a nicer syntax than HTML so enables rapid development.
 
+THis is a test site trying to host on github
+
 ## Unordered Lists
 
 - Item 1
